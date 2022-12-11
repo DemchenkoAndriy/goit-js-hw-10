@@ -18,3 +18,16 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-info-key {
+  font-weight: 700;
+}
+
+.country-info-value {
+  font-weight: 400;
+}
+
+.test {
+  display: block;
+  fill: currentColor;
+}
